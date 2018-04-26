@@ -1,0 +1,2 @@
+Make sure you name each device differently.
+In the python code make sure you set the correct file path for the batch code.
